@@ -30,7 +30,7 @@ public class Tilemap : MonoBehaviour
         {
             for (int y = 0; y < 4; y++)
             {
-                tiles[x, y] = 1;
+                tiles[x, y] = 2;
             }
         }
 
