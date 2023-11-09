@@ -6,4 +6,5 @@ public class Node
 {
     public bool walkable;
     public GridObject gridObject;
+    public float elevation;
 }
